@@ -8,6 +8,20 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 </div>
 
 
+# 🛠️ Vehículo y Equipamiento
+![todc](/image/RedToad.jpeg)
+
+# 📊 Estadísticas Aproximadas
+
+| Atributo       | Valor       |
+|----------------|-------------|
+| Aceleración    | ⭐⭐⭐⭐☆      |
+| Velocidad      | ⭐⭐☆☆☆       |
+| Manejo         | ⭐⭐⭐⭐☆       |
+| Tracción       | ⭐⭐⭐☆☆       |
+| Mini-Turbo     | ⭐⭐⭐⭐☆       |
+| Peso           | ⭐☆☆☆☆       |
+
 
 <style>
     body {
