@@ -61,3 +61,18 @@ Una pista de alta velocidad con tráfico, túneles y curvas abiertas, ambientada
 
 - ⭐⭐⭐ (3 de 5)
 - Ideal para jugadores intermedios y avanzados
+
+# Recompensas y Logros
+
+## Sistema de Recompensas
+
+- Al completar carreras o torneos, el jugador puede desbloquear nuevos personajes, vehículos y pistas.
+- También se otorgan monedas que pueden usarse para personalizar vehículos o comprar mejoras cosméticas.
+
+## Logros Destacados
+
+- **Velocidad Relámpago:** Completa una carrera con una velocidad media superior a X km/h.
+- **Maestro del Derrape:** Consigue X derrapes perfectos en una misma carrera.
+- **Campeón Koopa:** Gana un Gran Premio completo usando a Bowser.
+
+---
