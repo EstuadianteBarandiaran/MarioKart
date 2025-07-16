@@ -30,3 +30,27 @@ Yoshi hace su primera aparece en Super Mario Kart como personajes jugable. Yoshi
 | **Peso**        | Medio-Alto | Capaz de resistir empujones sin perder mucha estabilidad |
 | **Tracción**    | Media      | Buen agarre general en superficies mixtas                |
 
+## El Carro de Yoshi
+
+![Bowser en Mario Kart](/MarioKart/image/Yoshi,%20Mario%20Kart.jpg)
+
+El vehículo que Yoshi utiliza en Mario Kart está diseñado para resaltar su estilo equilibrado y su agilidad natural como personaje ligero-medio.
+
+Tipo: Kart de peso intermedio con buena maniobrabilidad.
+Diseño: colorido, con tonos verdes y detalles amigables que reflejan la personalidad alegre de Yoshi.
+Velocidad: velocidad media-alta que lo hace competitivo en tramos rectos sin sacrificar el control.
+Aceleración: decente, lo que le permite recuperar rápidamente el ritmo después de frenar o ser golpeado.
+Manejo: bastante ágil, ideal para tomar curvas cerradas sin perder el control.
+Ventajas: equilibrio entre velocidad, control y tracción; es difícil de sacar del camino y muy eficiente en circuitos técnicos.
+
+---
+
+### Estadísticas clave de Carro de Yoshi
+
+| **Estadística** | **Valor**  | **Impacto en el juego**                             |
+| --------------- | ---------- | --------------------------------------------------- |
+| **Velocidad**   | Media-Alta | Buen rendimiento en tramos largos y rectos          |
+| **Aceleración** | Media      | Recupera velocidad a un ritmo aceptable tras frenar |
+| **Manejo**      | Medio-Alto | Facilita el control en curvas y maniobras ajustadas |
+| **Peso**        | Medio      | Permite estabilidad sin perder demasiada agilidad   |
+| **Tracción**    | Media      | Rendimiento consistente en superficies variadas     |
