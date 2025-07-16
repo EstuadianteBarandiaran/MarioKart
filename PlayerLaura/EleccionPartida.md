@@ -36,3 +36,28 @@ Antes de iniciar la partida, el jugador elige:
 - Cilindraje (50cc, 100cc, 150cc, 200cc)
 - Nivel de dificultad
 
+# Autopista - Diseño de Circuito
+
+## Nombre del circuito: Autopista Furia Koopa
+
+### Descripción General
+
+Una pista de alta velocidad con tráfico, túneles y curvas abiertas, ambientada en un escenario nocturno con luces de neón y carteles animados al estilo Bowser.
+
+### Elementos destacados
+
+- **Tráfico en movimiento:** coches y camiones que deben ser esquivados.
+- **Rampas turbo:** para aumentar la velocidad.
+- **Curvas amplias:** favorece personajes pesados como Bowser.
+- **Tramos de derrape:** zonas donde el control y el manejo son clave.
+
+### Clima y ambiente
+
+- Escenario nocturno
+- Clima seco, pero con luces y efectos que dificultan la visibilidad
+- Música con tonos agresivos y electrónicos
+
+### Dificultad
+
+- ⭐⭐⭐ (3 de 5)
+- Ideal para jugadores intermedios y avanzados
