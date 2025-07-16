@@ -34,6 +34,17 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 ✅ Colorida y con muchos ítems en el camino.
 </div>
 
+---
+
+# 🚋 Toad Harbor –  *Mario Kart 8 Deluxe* 
+
+![carr](/image/carrera.jpg)
+## 🌉 **Descripción general**
+
+**Toad Harbor** es una pista ambientada en un animado puerto costero, claramente inspirado en **San Francisco**, California. 
+Es reconocida por su ambiente soleado, tranvías en movimiento, calles empinadas y la arquitectura inspirada en una ciudad occidental con un toque del Reino Champiñón.
+
+---
 
 <style>
     body {
