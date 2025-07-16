@@ -8,7 +8,7 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 </div>
 
 
-# 🛠️ Vehículo y Equipamiento
+# 🛠️ **Vehículo y Equipamiento**
 ![todc](/image/RedToad.jpeg)
 
 # 📊 Estadísticas Aproximadas
@@ -21,6 +21,18 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 | Tracción       | ⭐⭐⭐☆☆       |
 | Mini-Turbo     | ⭐⭐⭐⭐☆       |
 | Peso           | ⭐☆☆☆☆       |
+
+# 🏆 **Copa Toad**
+
+![copa](/image/copa.jpeg)
+---
+## 🎯 Características de la Copa
+
+<div style="color:#ffffff">
+✅ Dificultad media: combina pistas simples con otras más técnicas.  
+✅ Ideal para aprender a derrapar y usar atajos.  
+✅ Colorida y con muchos ítems en el camino.
+</div>
 
 
 <style>
