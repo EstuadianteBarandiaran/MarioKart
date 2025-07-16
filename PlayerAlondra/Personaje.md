@@ -12,6 +12,7 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 ![todc](/image/RedToad.jpeg)
 
 # 📊 Estadísticas Aproximadas
+<div style="color:#f3f3f3">
 
 | Atributo       | Valor       |
 |----------------|-------------|
@@ -21,7 +22,9 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 | Tracción       | ⭐⭐⭐☆☆       |
 | Mini-Turbo     | ⭐⭐⭐⭐☆       |
 | Peso           | ⭐☆☆☆☆       |
+</div>
 
+<>
 # 🏆 **Copa Toad**
 
 ![copa](/image/copa.jpeg)
@@ -40,9 +43,10 @@ Toad es un personaje de clase ligera, lo que significa que tiene una aceleració
 
 ![carr](/image/carrera.jpg)
 ## 🌉 **Descripción general**
-
-**Toad Harbor** es una pista ambientada en un animado puerto costero, claramente inspirado en **San Francisco**, California. 
+<div style="color:#f3f3f3">
+Toad Harbor es una pista ambientada en un animado puerto costero, claramente inspirado en San Francisco, California. 
 Es reconocida por su ambiente soleado, tranvías en movimiento, calles empinadas y la arquitectura inspirada en una ciudad occidental con un toque del Reino Champiñón.
+</div>
 
 ---
 
